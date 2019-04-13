@@ -7,6 +7,7 @@ Features:
   - Plot sites by inputting CSV
   - State holds all the currently plotted sites. displays in table
   - Export site data
+  
 To Do:
   - Create node backend
   - Create APIs to allow front end to fetch current data in network DB
