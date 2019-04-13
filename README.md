@@ -1,3 +1,17 @@
+http://cloistered-steam.surge.sh/
+
+This is an app used to plot locations of antennas, their beamwidths, and azimuth. The goal is to make it easier to plot site locations for presentation purposes
+
+Features:
+  - Plot sites manually by filling out SiteID, Latitude, Longitude, Beamwidth, Azimuth
+  - Plot sites by inputting CSV
+  - State holds all the currently plotted sites. displays in table
+  - Export site data
+To Do:
+  - Create node backend
+  - Create APIs to allow front end to fetch current data in network DB
+  - Allow saving of user data
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
