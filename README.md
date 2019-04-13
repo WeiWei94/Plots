@@ -9,6 +9,7 @@ Features:
   - Export site data
   
 To Do:
+  - Refactor code in frontend
   - Create node backend
   - Create APIs to allow front end to fetch current data in network DB
   - Allow saving of user data
